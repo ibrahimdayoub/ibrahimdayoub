@@ -29,8 +29,8 @@ A mobile frontend for Bero Tasker application, a comprehensive productivity app 
 
 ### 📫 Connect with me:
 
-- **Portfolio:** [ibrahimdayoub.onrender.com](https://ibrahimdayoub.netlify.app/)
-- **LinkedIn:** [linkedin.com/in/ibrahimdayoub](https://www.linkedin.com/in/ibrahimdayoub/)
+- **Portfolio:** [https://ibrahimdayoub.netlify.app](https://ibrahimdayoub.netlify.app)
+- **LinkedIn:** [linkedin.com/in/ibrahimdayoub](https://www.linkedin.com/in/ibrahimdayoub)
 - **Email:** [ibrahimdayoub619@gmail.com](mailto:ibrahimdayoub619@gmail.com)
 - **WhatsApp:** [+963997791807](https://wa.me/963997791807)
   
